@@ -9,4 +9,4 @@ Y continuó estudiando con el uso de distintas plataformas online como Platzi y 
 ## Contactame
 Puedes encontrarme en mis redes sociales
 - [Twitter](https://twitter.com/Viktor_b_Sq)
-- [LinkedIn](linkedin.com/in/viktor-bolanos-solis)
+- [LinkedIn](https://linkedin.com/in/viktor-bolanos-solis)
