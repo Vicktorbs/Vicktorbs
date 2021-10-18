@@ -4,9 +4,18 @@ Soy Víctor, soy un desarrollador Full-Stack Javascript y cuento con mayor exper
 
 ## Estudios
 Estudié Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Milpa Alta II, y a lo largo de mi carrera me fui centrando en el desarrollo web, con gran interés en conocer todas las partes que llevan una idea hasta un despliegue.
-Y continuó estudiando con el uso de distintas plataformas online como Platzi y Udemy, para mantenerme actualizado en las nuevas tendencias.
+Y continuó estudiando con el uso de distintas plataformas online como [Platzi](https://platzi.com/p/viktor-bs/) y Udemy, para mantenerme actualizado en las nuevas tendencias.
+
 
 ## Contactame
+
 Puedes encontrarme en mis redes sociales
 - [Twitter](https://twitter.com/Viktor_b_Sq)
 - [LinkedIn](https://linkedin.com/in/viktor-bolanos-solis)
+
+
+## 🐙🐱 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vicktorbs&date_format=M%20j%5B%2C%20Y%5D&theme=dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicktorbs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
